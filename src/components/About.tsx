@@ -67,7 +67,7 @@ export const About: React.FC = () => {
         >
           <h2 className="mb-6 text-4xl font-bold sm:text-5xl">About Me</h2>
           <p className="max-w-3xl mx-auto text-xl text-gray-300">
-            I’m Juliet Nnaemezie — an Electronic & Computer Engineering student
+            I am Juliet Nnaemezie, an Electronic & Computer Engineering student
             and aspiring Flutter developer, currently sharpening my skills in
             building clean, functional mobile apps. With one year of focused
             learning and project experience, I’m eager to transform ideas into
