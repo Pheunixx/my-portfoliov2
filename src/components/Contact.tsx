@@ -290,7 +290,7 @@ export const Contact: React.FC = () => {
           className="pt-8 mt-20 text-center border-t border-gray-800"
         >
           <p className="text-gray-400">
-            © 2024 Sarah Chen. Built with React, Tailwind CSS, and lots of ☕
+            © 2024 Juliet Nnaemezie. Built with React, Tailwind CSS, and lots of ☕
           </p>
         </motion.div>
       </div>

@@ -89,10 +89,10 @@ export const About: React.FC = () => {
             </h3>
             <div className="space-y-4 text-gray-300">
               <p>
-                My journey into tech started in the lecture halls of Electronic
+                My journey into tech started in the lecture halls of the department of Electronic
                 & Computer Engineering, where I was fascinated by how hardware
                 and software come together. But it wasn’t enough to just study
-                systems — I wanted to create.
+                systems, I wanted to create them too.
               </p>
               <p>
                 That curiosity pushed me into mobile development, and Flutter
@@ -104,9 +104,8 @@ export const About: React.FC = () => {
                 creative ways.
               </p>
               <p>
-                When I’m not coding, I’m exploring design trends, following new
-                Flutter updates, or rethinking how to future-proof my career in
-                an AI-driven world. Growth and relevance are what drive me.
+                When I’m not coding, I’m exploring design trends and following new
+                Flutter updates. Growth and relevance are what drive me.
               </p>
             </div>
           </div>
