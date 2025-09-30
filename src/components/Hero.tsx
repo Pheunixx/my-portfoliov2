@@ -42,8 +42,8 @@ export const Hero: React.FC = () => {
             </span>
           </h1>
           <p className="max-w-3xl mx-auto mb-8 text-xl text-gray-300 sm:text-2xl">
-            A Mobile App Developer passionate about crafting beautiful ands user
-            friendly mobile experiences
+            A Mobile App Developer passionate about crafting beautiful and user
+            friendly mobile experiences.
           </p>
         </motion.div>
 
